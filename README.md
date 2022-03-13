@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 There, I'm Ivan abundis</h1>
-<h3 align="center">A passionate Software Engineer from Mexico</h3>
+<h3 align="center">A passionate Software Engineer </h3>
 
 - 🔭 I'm a Software Engineer at [PayPal](https://www.paypal.com)
 - ⌨️ Prior to that, I led a small engineering team at Neoris, working on e-commerce platforms improvement among other things.
